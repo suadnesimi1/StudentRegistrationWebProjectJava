@@ -1,0 +1,5 @@
+Model\StudentModel.class
+DatabaseConnection\DatabaseConnection.class
+Domain\StudentDomain.class
+Service\StudentService.class
+com\example\studentregistrationwebprojectjava\HelloServlet.class
